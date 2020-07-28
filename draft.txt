@@ -1,0 +1,4 @@
+#Draft
+- Add CSS style;
+- Add about me info;
+- Add photo.
